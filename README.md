@@ -1,1 +1,1 @@
-control splar track
+control solar track
